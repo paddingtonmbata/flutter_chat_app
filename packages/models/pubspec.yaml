@@ -8,13 +8,18 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  equatable: ^2.0.5
   flutter:
     sdk: flutter
+  envied: ^0.5.4
 
+  uuid: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  envied_generator: ^0.5.
+  build_runner: ^2.4.9
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
